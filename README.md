@@ -21,6 +21,9 @@
 - Periodic Table: 
 - https://azureservices.io/
 
+## DP 203
+Main link
+https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certification-exam-disclaimers
 
 ## Databricks concepts
 - Example: covers workshop on azure databricks
