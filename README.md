@@ -23,8 +23,10 @@
 - https://azureservices.io/
 
 ## DP 203
-Main link
-https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certification-exam-disclaimers
+- Main link
+- https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certification-exam-disclaimers
+- Lab/Workshop (D11)
+- https://github.com/MicrosoftLearning/DP-203-Data-Engineer/tree/master/Instructions/Labs
 
 ## Databricks concepts
 - Example: covers workshop on azure databricks (Blob, Datalake, DataFactory, Cosmos, Azure SQL database/datawarehouse, eventhub)
