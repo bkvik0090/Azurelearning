@@ -15,7 +15,7 @@
 - Example:
 - https://github.com/microsoft/vnet-in-azure-spring-cloud
 
-## Databricks
+## Databricks concepts
 - Example: covers workshop on azure databricks
 - https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
 -   a. learn cluster provisioning
