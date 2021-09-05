@@ -42,6 +42,8 @@
 - https://github.com/amdamle/QuickStartGuides/tree/90e64990013dffa5bc4c1be85292870691d0a3de/Synapse-Serverless
 - Analytics lab
 - https://github.com/kowsi-lixar/Wide-World-Importers
+- Media Entertainment lab - Synpase & Databricks
+- https://github.com/MediaEntertainmentLabs/Churn-Retention-Demo
 
 ## Azure Stack concepts & lab
 - Repo:
