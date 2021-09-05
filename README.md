@@ -18,6 +18,6 @@
 ## Databricks
 - Example: covers workshop on azure databricks
 - https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
-   a. learn cluster provisioning
-   b. data engineering
-   c. data science
+-   a. learn cluster provisioning
+-   b. data engineering
+-   c. data science
