@@ -34,8 +34,11 @@ https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certi
 -   c. data science
 
 ## Synapase cncepts
-- workshop
+- workshop - 4 days (ingest,transform-d1; optimize & query -d2; model, manage&secure -d3; challenge - d4)
 - https://github.com/solliancenet/azure-synapse-analytics-workshop-400
+- synpase dedicated pool vs serverless pool
+- https://github.com/amdamle/QuickStartGuides/tree/90e64990013dffa5bc4c1be85292870691d0a3de/Synapse-Serverless
+- 
 
 ## Azure Stack concepts & lab
 - Repo:
