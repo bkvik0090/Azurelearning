@@ -33,6 +33,10 @@ https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certi
 -   b. data engineering
 -   c. data science
 
+## Synapase cncepts
+- workshop
+- https://github.com/solliancenet/azure-synapse-analytics-workshop-400
+
 ## Azure Stack concepts & lab
 - Repo:
 - https://github.com/tkubica12/azurestack-lab/tree/b114392cfe9d9443815a53e9237cc6124318d53c
