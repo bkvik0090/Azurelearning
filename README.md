@@ -3,6 +3,7 @@
 ## Microsoft Repos to learn Azure technologies
 
 - https://github.com/microsoft
+- https://github.com/orgs/MicrosoftLearning/repositories
 
 
 ## Virtual network concepts
