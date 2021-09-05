@@ -28,3 +28,7 @@
 -   a. learn cluster provisioning
 -   b. data engineering
 -   c. data science
+
+## Azure Stack concepts & lab
+- Repo:
+- https://github.com/tkubica12/azurestack-lab/tree/b114392cfe9d9443815a53e9237cc6124318d53c
