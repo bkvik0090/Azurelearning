@@ -16,8 +16,10 @@
 - https://github.com/microsoft/vnet-in-azure-spring-cloud
 
 ## Azure Fundamentals
-https://github.com/vatsalsmehta/Cloud-Computing-Azure/blob/main/Azure%20Fundamentals%20pdf.pdf
-Periodic Table: https://azureservices.io/
+- Fundamentals guidelines:
+- https://github.com/vatsalsmehta/Cloud-Computing-Azure/blob/main/Azure%20Fundamentals%20pdf.pdf
+- Periodic Table: 
+- https://azureservices.io/
 
 
 ## Databricks concepts
