@@ -27,7 +27,7 @@ Main link
 https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/#certification-exam-disclaimers
 
 ## Databricks concepts
-- Example: covers workshop on azure databricks
+- Example: covers workshop on azure databricks (Blob, Datalake, DataFactory, Cosmos, Azure SQL database/datawarehouse, eventhub)
 - https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
 -   a. learn cluster provisioning
 -   b. data engineering
