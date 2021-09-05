@@ -15,6 +15,11 @@
 - Example:
 - https://github.com/microsoft/vnet-in-azure-spring-cloud
 
+## Azure Fundamentals
+https://github.com/vatsalsmehta/Cloud-Computing-Azure/blob/main/Azure%20Fundamentals%20pdf.pdf
+Periodic Table: https://azureservices.io/
+
+
 ## Databricks concepts
 - Example: covers workshop on azure databricks
 - https://github.com/microsoft/Azure-Databricks-NYC-Taxi-Workshop
