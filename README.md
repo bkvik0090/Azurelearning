@@ -55,5 +55,6 @@
 - https://github.com/microsoft/MCW-ML-Ops/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20MLOps.md
 - https://github.com/h2oai/tutorials/tree/c830e75f0d7945124ec1fd0bdd7aaa55d2a723e2
 - https://github.com/taylor-schneider/ml-training-jupyter-notebooks/tree/94ea9e517385eb87a351f97d5347439502c67bfa
+- https://github.com/madhabendra-tredence/AzureMLOps/tree/229b42e98bd1b1044079a6762f7515912b710489
 
 
