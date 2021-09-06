@@ -51,9 +51,9 @@
 
 ##MLOps
 - Repo:
--https://github.com/DataSciNAll/MLOps/tree/528ec03f0de8d556128ba7eabbf2dfef1e51215b
--https://github.com/microsoft/MCW-ML-Ops/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20MLOps.md
--https://github.com/h2oai/tutorials/tree/c830e75f0d7945124ec1fd0bdd7aaa55d2a723e2
--https://github.com/taylor-schneider/ml-training-jupyter-notebooks/tree/94ea9e517385eb87a351f97d5347439502c67bfa
+- https://github.com/DataSciNAll/MLOps/tree/528ec03f0de8d556128ba7eabbf2dfef1e51215b
+- https://github.com/microsoft/MCW-ML-Ops/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20MLOps.md
+- https://github.com/h2oai/tutorials/tree/c830e75f0d7945124ec1fd0bdd7aaa55d2a723e2
+- https://github.com/taylor-schneider/ml-training-jupyter-notebooks/tree/94ea9e517385eb87a351f97d5347439502c67bfa
 
 
