@@ -48,3 +48,11 @@
 ## Azure Stack concepts & lab
 - Repo:
 - https://github.com/tkubica12/azurestack-lab/tree/b114392cfe9d9443815a53e9237cc6124318d53c
+
+##MLOps
+https://github.com/DataSciNAll/MLOps/tree/528ec03f0de8d556128ba7eabbf2dfef1e51215b
+https://github.com/microsoft/MCW-ML-Ops/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20MLOps.md
+https://github.com/h2oai/tutorials/tree/c830e75f0d7945124ec1fd0bdd7aaa55d2a723e2
+https://github.com/taylor-schneider/ml-training-jupyter-notebooks/tree/94ea9e517385eb87a351f97d5347439502c67bfa
+
+
