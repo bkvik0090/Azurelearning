@@ -49,7 +49,7 @@
 - Repo:
 - https://github.com/tkubica12/azurestack-lab/tree/b114392cfe9d9443815a53e9237cc6124318d53c
 
-##MLOps
+## MLOps
 - Repo:
 - https://github.com/DataSciNAll/MLOps/tree/528ec03f0de8d556128ba7eabbf2dfef1e51215b
 - https://github.com/microsoft/MCW-ML-Ops/blob/master/Hands-on%20lab/HOL%20step-by-step%20-%20MLOps.md
